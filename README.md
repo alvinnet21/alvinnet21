@@ -1,4 +1,4 @@
-- 👋 Hi, I’m alvin. I am Software engineer with 1 year experience in software development. 
+- 👋 Hi, I’m alvin. I am Software engineer with 2 year experience in software development. 
 - 🔗 So far i have Java, JavaFX, SQL, C++, JavaScript, HTML/CSS, Kotlin. 
 - 👀 I’m interested in Software Development. 
 - 🌱 I’m currently learning Amazon Web Services. 
